@@ -1,0 +1,5 @@
+# ninja log v6
+1	555	1741407865547755215	CMakeFiles/A4_apMalloc.dir/LPHT.cpp.o	531b82514c5be708
+1	557	1741407865547945049	CMakeFiles/A4_apMalloc.dir/apMalloc.cpp.o	110477e8dbd0c79d
+1	597	1741407865547424712	CMakeFiles/A4_apMalloc.dir/main.cpp.o	6cd7084a59b6dc45
+597	675	1741407866143920857	A4_apMalloc	d9367dd8902fb9c9

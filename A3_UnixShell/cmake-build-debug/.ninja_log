@@ -1,0 +1,6 @@
+# ninja log v6
+545	632	1739213909325174481	A3_UnixShell	a92f052bdb09f46
+3	545	1739213908783031662	CMakeFiles/A3_UnixShell.dir/tests/test_shelpers.cpp.o	7d07b20d193993b3
+23	619	1739213612042438033	CMakeFiles/A3_UnixShell.dir/src/shelpers.cpp.o	68a4c35391f8ee25
+5	429	1739213827363899246	CMakeFiles/A3_UnixShell.dir/src/main.cpp.o	47d9146b81322ca2
+2	56	1739555186599182274	build.ninja	dcb532359bbdd6b0

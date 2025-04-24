@@ -1,0 +1,3 @@
+/Users/alexiapappas/MSD/MSD/CS6013/A4_apMalloc/cmake-build-debug/CMakeFiles/A4_apMalloc.dir
+/Users/alexiapappas/MSD/MSD/CS6013/A4_apMalloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexiapappas/MSD/MSD/CS6013/A4_apMalloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
